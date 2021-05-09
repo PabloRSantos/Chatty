@@ -5,6 +5,7 @@
   "license": "MIT",
   "dependencies": {
     "express": "^4.17.1",
+    "socket.io": "^4.0.2",
     "typeorm": "^0.2.32",
     "uuid": "^8.3.2"
   },
